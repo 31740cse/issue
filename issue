@@ -1,0 +1,21 @@
+<table style="border:9px solid black">
+<tr style="color: red">
+<th style="border:5px solid green">Sujects</th>
+<th style="border:5px solid green">Marks</th>
+</tr>
+<tr style="border:3px sky blue">
+<td style="border:3px solid blue">Science</td>
+<td style="border:3px solid blue">98</td>
+</tr>
+<tr>
+<td style="border:3px solid blue">maths</td>
+<td style="border:3px solid blue">96</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td style="border:3px solid blue">total marks:</td>
+<td style="border:3px solid blue">200</td>
+</tr>
+</table>
